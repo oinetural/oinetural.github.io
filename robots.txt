@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oinetural.github.io/sitemap
+Sitemap: https://oinetural.github.io/app/sitemap
+Sitemap: https://oinetural.github.io/assets/sitemap
+Sitemap: https://oinetural.github.io/css/sitemap
+Sitemap: https://oinetural.github.io/includes/sitemap
+Sitemap: https://oinetural.github.io/item/sitemap
+Sitemap: https://oinetural.github.io/src/sitemap
